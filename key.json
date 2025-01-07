@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "red-abstraction-446113-u1",
+    "private_key_id": "35a9eb5827197518476602d1ffce1cbca3acddb9",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDgundSH65g9ffi\ns4yM09K+WnT3Oz9Ll1NOReWWpjvjpYbL6QQkkTN1ZJd5Me+fGXUtrCXDQg2TdFFp\npToG3rWDTrAZwtgPwsfZ17NoaX5wy8Bc45VTyjaEWe/BAygrcjYAaBnOF8G9bF8l\nqtZHKPkQNaodZkzMB/hlav0ZDb5MLQ0UXuh3MQI3BRpsRsAtWlNtTqnVOChuOZnm\nvmULDr27oQ43diucQm46y6GOxBbqmcdjDLEizeQTX2dHefKNAHtAb7X2RYFeiDng\n1GMZBd8hXFcw1lYtIWeb5eYm9QfsZe+yoyiAqfNnYHjjw7GvRulwOkFQxj0G4lv3\n2rXX0XsLAgMBAAECggEAGIICs5g/O6rHba1CwDRKRjZ2OA95inmxJ5b0KqxBWW+6\nq2/jjZtaNHdpFNoEdbeLMb/ANIhLvmTP4MjDSG7ZoRLKngdDlIsboXRmcpYX/cly\nq+P+loSLJ9Q+aIW6x+uCMSQpNZ0d+gBLa2pd86USbcP0eT/9UxOcHBoBX83sZBZ3\nST3Vp7uXppTc3nEwsYCJ2hS+MBfNmGohAf1DoFnatKR3FX3qvlv+bOaEIBt9LV6d\nRSLUITzZagO9gi68SOUoZL06OGKyfElQeZAwirLOQuxSGZa6uoFDO2FDa6c9Evq/\nKFdaZqH5nI8V/IVsrarjIYGrWPxAOi3UUVkAS2SHbQKBgQD9A9mOfVvk20pjgJt4\nXXI9LeU/sblJAi8sOEyuf4mtP6c6AACdwM/n2M+YtoeFiYha3qGb94n4DnXr3Mp+\nJBUF/Urb7pyJsHYq+Jg7I8S8OHMBkPYtRZkdLr7KaJkOHd9wY7EYUrCuHzMA71Y4\n5EJdokXsCs7sdYZeJpHO+QbjVQKBgQDjYS+BJBJHXHBz7eTGr5iX3Txz8NxT/0Oi\nGO8497Ku3IMkgU4DnkFM3kCmU+bFzGlLGH/6qr/rdoEpA2mGxiavc/RA6IHH5JHF\ncrJvxBZUMA5HwpPrwQit4gpPwsbzg0cBGWD3VwzG5UIQAYjM0133zP6WnlCH3Kpc\nuttk2nOk3wKBgQDpgdgTTVa2DDzHQDY8C+IW3HirJBbgboeixALhOQuTPR/Uw5PO\nA9jdHJfbVPoWICwb0URNcVN//7iNCaRIbnyIno+sEredy6IDXpMAYa58F4zscSEB\n/y2kZTPoEkjPYnqIezlCPW6aBGlJ/5kPwHoPeGgXxJHcYUq1Mdt3rRTSUQKBgFwg\nDzg6njFNkb5Wv5+Em8XD/G9ZQlvCC+wMQDiLm1jfvT64KRysLPbxAa6iRdkUVgD4\nHzo3nmTPcctlN4dEl3309BysV5De2fTu4L8J6qYXhmGqw3X8kwComdbxKtyU7trS\nJohwO5wGXTrQ9FVQujzhULFD2YsCbAAAMU3ueHZvAoGAT9NEh8zceZy8dA5288oV\nZv+DkhiEp4khhfp8YHuwcx9Uexs6uLwYc4FyhZO24665hvAz1LoZiXnH6Hp7au8a\np7424HVY0hvvrJ+XT+Icx846c/wNBs+pCSDcDX2qCmDAzIi48Ouy7A6hieEAzpHJ\nZgaP47Uw4kUEaINEd7bv/Sk=\n-----END PRIVATE KEY-----\n",
+    "client_email": "admin-604@red-abstraction-446113-u1.iam.gserviceaccount.com",
+    "client_id": "109683925647322122400",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-604%40red-abstraction-446113-u1.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
